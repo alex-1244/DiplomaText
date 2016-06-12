@@ -1,0 +1,1915 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.9)  9 JUN 2016 23:56
+entering extended mode
+**C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/Diploma.tex
+(C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/Diploma.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\extsizes\extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\cmap\cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t2aenc.dfu"
+File: t2aenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>) (C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\t2\mathtext.
+sty
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-russian\russianb.ldf
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen104
+)
+Package babel Info: Making " an active character on input line 111.
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-ukrainian\ukraineb.ld
+f
+Language: ukraineb 2008/03/21 v1.1l Ukrainian support from the babel system
+LaTeX Info: Redefining \textcyrillic on input line 138.
+)
+
+Package babel Warning: Last declared language option is `russian',
+(babel)                but the last processed one was `ukrainian'.
+(babel)                The main language cannot be set as both a global
+(babel)                and a package option. Use `main=russian' as
+(babel)                option. Reported on input line 325.
+
+)
+\fivecharsapprox=\skip43
+\fivecharsapproxs=\skip44
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks17
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\bigfoot\perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count92
+)
+\c@pp@a@footnote=\count93
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks18
+\footnotemargin=\dimen113
+\c@pp@next@reset=\count94
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip45
+\cftbeforetoctitleskip=\skip46
+\cftaftertoctitleskip=\skip47
+\cftbeforepartskip=\skip48
+\cftpartnumwidth=\skip49
+\cftpartindent=\skip50
+\cftbeforechapskip=\skip51
+\cftchapindent=\skip52
+\cftchapnumwidth=\skip53
+\cftbeforesecskip=\skip54
+\cftsecindent=\skip55
+\cftsecnumwidth=\skip56
+\cftbeforesubsecskip=\skip57
+\cftsubsecindent=\skip58
+\cftsubsecnumwidth=\skip59
+\cftbeforesubsubsecskip=\skip60
+\cftsubsubsecindent=\skip61
+\cftsubsubsecnumwidth=\skip62
+\cftbeforeparaskip=\skip63
+\cftparaindent=\skip64
+\cftparanumwidth=\skip65
+\cftbeforesubparaskip=\skip66
+\cftsubparaindent=\skip67
+\cftsubparanumwidth=\skip68
+\cftbeforeloftitleskip=\skip69
+\cftafterloftitleskip=\skip70
+\cftbeforefigskip=\skip71
+\cftfigindent=\skip72
+\cftfignumwidth=\skip73
+\c@lofdepth=\count95
+\c@lotdepth=\count96
+\cftbeforelottitleskip=\skip74
+\cftafterlottitleskip=\skip75
+\cftbeforetabskip=\skip76
+\cfttabindent=\skip77
+\cfttabnumwidth=\skip78
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip79
+\f@ncyO@elh=\skip80
+\f@ncyO@erh=\skip81
+\f@ncyO@olh=\skip82
+\f@ncyO@orh=\skip83
+\f@ncyO@elf=\skip84
+\f@ncyO@erf=\skip85
+\f@ncyO@olf=\skip86
+\f@ncyO@orf=\skip87
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count97
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count98
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count99
+\c@subtable=\count100
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks19
+\extratabsurround=\skip88
+\backup@length=\skip89
+)
+\TX@col@width=\dimen125
+\TX@old@table=\dimen126
+\TX@old@col=\dimen127
+\TX@target=\dimen128
+\TX@delta=\dimen129
+\TX@cols=\count101
+\TX@ftn=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip90
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen130
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen131
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen132
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+\symOMLletters=\mathgroup4
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\symOMSletters=\mathgroup5
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks22
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks23
+\eqnshift@=\dimen133
+\alignsep@=\dimen134
+\tagshift@=\dimen135
+\tagwidth@=\dimen136
+\totwidth@=\dimen137
+\lineht@=\dimen138
+\@envbody=\toks24
+\multlinegap=\skip91
+\multlinetaggap=\skip92
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip93
+\thm@postskip=\skip94
+\thm@headsep=\skip95
+\dth@everypar=\toks31
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count114
+\calc@Bcount=\count115
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip96
+\calc@Bskip=\skip97
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count116
+\calc@Cskip=\skip98
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count117
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count118
+\FP@xia=\count119
+\FP@xib=\count120
+\FP@xfa=\count121
+\FP@xfb=\count122
+\FP@rega=\count123
+\FP@regb=\count124
+\FP@regs=\count125
+\FP@times=\count126
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count127
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip99
+\enit@outerparindent=\dimen141
+\enit@toks=\toks32
+\enit@inbox=\box28
+\enitdp@description=\count128
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen142
+\c@nlinenum=\count129
+\TeXr@lab=\toks33
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen143
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\was\icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\SIstyle\sistyle.sty
+Package: sistyle 2008/07/16 v2.3a SI units and numbers (DNJ Els)
+\ttoks@A=\toks34
+\ttoks@B=\toks35
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks36
+\verbatim@line=\toks37
+\verbatim@in@stream=\read1
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count130
+\lst@gtempboxa=\box29
+\lst@token=\toks38
+\lst@length=\count131
+\lst@currlwidth=\dimen144
+\lst@column=\count132
+\lst@pos=\count133
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count134
+\lst@lineno=\count135
+\lst@maxwidth=\dimen147
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count136
+\lst@skipnumbers=\count137
+\lst@framebox=\box30
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
+\UL@box=\box31
+\UL@hyphenbox=\box32
+\UL@skip=\skip100
+\UL@hook=\toks39
+\UL@height=\dimen148
+\UL@pe=\count138
+\UL@pixel=\dimen149
+\ULC@box=\box33
+Package: ulem 2012/05/18
+\ULdepth=\dimen150
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count139
+\Hy@pagecounter=\count140
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+\symPD1letters=\mathgroup8
+)
+\Hy@SavedSpaceFactor=\count141
+Package hyperref Info: Option `unicode' set `true' on input line 3453.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2016/05/21 v6.83p Hyperref: PDF Unicode definition (HO)
+\symPUletters=\mathgroup9
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 4362.
+Package hyperref Info: Option `final' set `true' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count142
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen152
+\Fld@menulength=\count143
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count144
+\c@Item=\count145
+\c@Hfootnote=\count146
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
+\Fld@listcount=\count147
+\c@bookmark@seq@number=\count148
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip101
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip102
+\bibsep=\skip103
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count149
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\totcount\totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
+ounters
+)
+\c@section@totc=\count150
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count151
+)
+\c@totfigures=\count152
+\c@tottables=\count153
+\c@totreferences=\count154
+\c@totequation=\count155
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip104
+\LTright=\skip105
+\LTpre=\skip106
+\LTpost=\skip107
+\LTchunksize=\count156
+\LTcapwidth=\dimen155
+\LT@head=\box34
+\LT@firsthead=\box35
+\LT@foot=\box36
+\LT@lastfoot=\box37
+\LT@cols=\count157
+\LT@rows=\count158
+\c@LT@tables=\count159
+\c@LT@chunks=\count160
+\LT@p@ftn=\toks40
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen156
+\AM@pageheight=\dimen157
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box38
+\AM@global@opts=\toks41
+\AM@toc@title=\toks42
+\c@AM@survey=\count161
+\AM@templatesizebox=\box39
+)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count162
+\rotFPtop=\skip108
+\rotFPbot=\skip109
+\rot@float@box=\box40
+\rot@mess@toks=\toks43
+)
+(C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј\Diploma.aux)
+\openout1 = `Diploma.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 428.
+LaTeX Font Info:    ... okay on input line 428.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 428.
+
+LaTeX Font Info:    No file T2Aftm.fd. on input line 428.
+
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 428.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 711.319pt, 76.82234pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=711.319pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=17.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count163
+\scratchdimen=\dimen158
+\scratchbox=\box41
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count166
+\MPscratchDim=\dimen159
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks45
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for OML+ftm on input line 428.
+
+LaTeX Font Info:    No file OMLftm.fd. on input line 428.
+
+
+LaTeX Font Warning: Font shape `OML/ftm/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead on input line 428.
+
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 428.
+
+LaTeX Font Info:    No file OMSftm.fd. on input line 428.
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 428.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 428.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 428.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for PD1+ftm on input line 428.
+
+LaTeX Font Info:    No file PD1ftm.fd. on input line 428.
+
+
+LaTeX Font Warning: Font shape `PD1/ftm/m/n' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 428.
+
+LaTeX Font Info:    Try loading font information for PU+ftm on input line 428.
+LaTeX Font Info:    No file PUftm.fd. on input line 428.
+
+LaTeX Font Warning: Font shape `PU/ftm/m/n' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 428.
+
+<<ot1tt.cmap>>
+\c@lstlisting=\count169
+\AtBeginShipoutBox=\box42
+Package hyperref Info: Link coloring OFF on input line 428.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count170
+)
+LaTeX Info: Redefining \ref on input line 428.
+LaTeX Info: Redefining \pageref on input line 428.
+LaTeX Info: Redefining \nameref on input line 428.
+
+(C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј\Diploma.out)
+(C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј\Diploma.out)
+\@outlinefile=\write3
+\openout3 = `Diploma.out'.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 428.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+
+LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 437.
+
+(C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј\Diploma.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
+LaTeX Font Info:    No file OT1ftm.fd. on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 1.
+
+)
+\tf@toc=\write4
+\openout4 = `Diploma.toc'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 438.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 438.
+ [2{C:/Users/Alex/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 443.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 443.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 459.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 459.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 459.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 459.
+ [3
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 460.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 460.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 461.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 461.
+
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 463.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 491.
+[4
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 493.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 493.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 519.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 519.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 519.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 519.
+ [5]
+\c@theorem=\count171
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 530.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 530.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 535.
+ [6]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 536.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 536.
+
+Overfull \hbox (51.52446pt too wide) in paragraph at lines 539--540
+[]\T2A/ftm/m/it/14.4 Припустимо, що ко-жен ву-зол $\OML/cmm/m/it/14.4 x$ \T2A/f
+tm/m/it/14.4 ма№ про-пу-скну зда-тнiсть по-то-ку $\OML/cmm/m/it/14.4 k\OT1/cmr/
+m/n/14.4 (\OML/cmm/m/it/14.4 x\OT1/cmr/m/n/14.4 ) \OML/cmm/m/it/14.4 geqslant\O
+T1/cmr/m/n/14.4 0$
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 547.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 547.
+<11_1.jpg, id=108, 156.585pt x 126.4725pt>
+File: 11_1.jpg Graphic file (type jpg)
+ <use 11_1.jpg>
+Package pdftex.def Info: 11_1.jpg used on input line 559.
+(pdftex.def)             Requested size: 156.58461pt x 126.47218pt.
+
+<11_2.jpg, id=109, 192.72pt x 115.18031pt>
+File: 11_2.jpg Graphic file (type jpg)
+ <use 11_2.jpg>
+Package pdftex.def Info: 11_2.jpg used on input line 565.
+(pdftex.def)             Requested size: 192.71951pt x 115.18001pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--571
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 576.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 576.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 576.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 576.
+[7
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 582.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 582.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 582.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 582.
+ [8 <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/11_1.jpg> <C:/Users/Alex/Do
+cuments/Diplom/Text/РґРїР»РѕРј/11_2.jpg>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 582.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 582.
+
+<p1.jpg, id=126, 417.81094pt x 440.39531pt>
+File: p1.jpg Graphic file (type jpg)
+ <use p1.jpg>
+Package pdftex.def Info: p1.jpg used on input line 594.
+(pdftex.def)             Requested size: 271.5739pt x 286.25356pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--599
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 649.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 649.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 649.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 649.
+[9
+
+]
+
+LaTeX Warning: File `p2.jpg' not found on input line 656.
+
+
+! Package pdftex.def Error: File `p2.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.656 \includegraphics[scale=0.65]{p2.jpg}
+                                          
+? 
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 656
+.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 653--661
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 677.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 677.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 677.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 677.
+[10 <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/p1.jpg>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 725.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 725.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 725.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 725.
+ [11]
+<p3.jpg, id=142, 811.53188pt x 337.26pt>
+File: p3.jpg Graphic file (type jpg)
+ <use p3.jpg>
+Package pdftex.def Info: p3.jpg used on input line 733.
+(pdftex.def)             Requested size: 486.92288pt x 202.35756pt.
+
+Overfull \hbox (17.4524pt too wide) in paragraph at lines 733--734
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--738
+
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 761.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 761.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 761.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 761.
+[12 <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/p3.jpg>]
+Overfull \hbox (72.00519pt too wide) in paragraph at lines 764--769
+ [] 
+ []
+
+
+Overfull \hbox (3.47003pt too wide) in paragraph at lines 772--792
+ [] 
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 792.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 792.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 792.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 792.
+[13] <p3n.jpg, id=152, 811.53188pt x 356.83313pt>
+File: p3n.jpg Graphic file (type jpg)
+ <use p3n.jpg>
+Package pdftex.def Info: p3n.jpg used on input line 797.
+(pdftex.def)             Requested size: 486.92288pt x 214.10152pt.
+
+Overfull \hbox (17.4524pt too wide) in paragraph at lines 797--798
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 793--802
+
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 825.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 825.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 825.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 825.
+[14 <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/p3n.jpg>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 849.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 849.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 849.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 849.
+ [15]
+
+LaTeX Warning: File `p4.jpg' not found on input line 864.
+
+
+! Package pdftex.def Error: File `p4.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.864 \includegraphics[scale=0.65]{p4.jpg}
+                                          
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 861--869
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 882.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 882.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 882.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 882.
+[16]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 913.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 913.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 913.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 913.
+ [17]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 914.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 914.
+
+Overfull \hbox (5.50299pt too wide) in paragraph at lines 915--916
+\T2A/ftm/m/it/14.4 ми ву-злiв. Як ал-го-ритм рi-ше-н-ня був обр-ний ал-го-ритм 
+Едмондса-Карпа.Булa
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 917.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 917.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 917.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 917.
+[18
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 919.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 919.
+
+Underfull \hbox (badness 6316) in paragraph at lines 927--928
+\T2A/ftm/m/it/14.4 Стра-хов - Оде-са : Оде-ський на-цiо-наль-ний унi-вер-си-тет
+ iме-нi
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 930.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 930.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 930.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 930.
+[19
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 931.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 931.
+ <inter.jpg, id=185, 1209.01688pt x 713.66624pt>
+File: inter.jpg Graphic file (type jpg)
+ <use inter.jpg>
+Package pdftex.def Info: inter.jpg used on input line 936.
+(pdftex.def)             Requested size: 846.30606pt x 499.56296pt.
+
+Overfull \hbox (376.83557pt too wide) in paragraph at lines 936--937
+ [] 
+ []
+
+<vvod.jpg, id=186, 1209.01688pt x 713.66624pt>
+File: vvod.jpg Graphic file (type jpg)
+ <use vvod.jpg>
+Package pdftex.def Info: vvod.jpg used on input line 943.
+(pdftex.def)             Requested size: 906.76044pt x 535.24837pt.
+
+Overfull \hbox (437.28995pt too wide) in paragraph at lines 943--944
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 948.
+[20
+
+ <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/inter.jpg>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 948.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 948.
+ [21 <C:/Users/Alex/Documents/Diplom/Text/РґРїР»РѕРј/vvod.jpg>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 949.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 949.
+
+(C:\Users\Alex\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 953.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1005.
+
+[22
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1058.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1058.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1058.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1058.
+ [23]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1111.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1111.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1111.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1111.
+ [24]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1164.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1164.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1164.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1164.
+ [25]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1217.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1217.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1217.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1217.
+ [26]
+
+Package caption Warning: Unused \captionsetup[table] on input line 205.
+See the caption package documentation for explanation.
+
+
+AED: lastpage setting LastPage
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1238.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1238.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1238.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1238.
+[27]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1238.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1238.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1238.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1238.
+ (Diploma.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1238.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1238.
+
+Package rerunfilecheck Info: File `Diploma.out' has not changed.
+(rerunfilecheck)             Checksum: 4B02C9C0B1C09DECB1525B0789A7732A;2613.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1238.
+ ) 
+Here is how much of TeX's memory you used:
+ 18589 strings out of 493335
+ 258175 string characters out of 3136684
+ 523986 words of memory out of 3000000
+ 21394 multiletter control sequences out of 15000+200000
+ 12506 words of font info for 41 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,12n,49p,1434b,2018s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.14} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\Alex\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lait1
+000.pk> <C:\Users\Alex\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\latt1000.pk> <C:\Users\Alex\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
+a\dpi600\latt1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\larm1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\2.9\fonts\pk\l
+jfour\unknown\unknown\dpi600\larm1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb>
+Output written on Diploma.pdf (26 pages, 632013 bytes).
+PDF statistics:
+ 901 PDF objects out of 1000 (max. 8388607)
+ 345 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+
