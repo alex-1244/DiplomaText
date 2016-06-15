@@ -735,13 +735,12 @@ $$MinCostFlow.exe \quad main$$
 Задача 3
 
 \indent
-У старому центрі одного з міст рух машин влаштовано так, що великій кількості машин, що їде ввечері в спальний район в будь-якому випадку доводиться проїжджати через кільцеве перехрестя, із за чого створюються затори. ДАІ спільно з комунальними підприємствами вирішило, що місто потребує побудови нової дороги, яка б розвантажила це перехрестя. Але їм необхідно знати, скільки смуг необхідно новій дорозі. Для цього необхідно дізнатися, скільки машин обиратимуть нову дорогу замість старої. Кожна дорога має обмежену пропускну спроможність. Кожне перехрестя також має обмежену пропускну спроможність.
+Туристичній компанії треба переправити группу відпочиваючих з Одеси до Барселони.Але оскільки группа зібралася дуже піздно то майже всі квитки на потяг до Києва і літак Київ-Барселона вже викуплені. Компанія зібрала данні про наявні квитки на різні проможні рейси та потяги і тепер їй треба з'ясувати як переправити группу відпочиваючих в 100 чоловік найшвидше.
 
 \indent
 Зведемо дану задачу до задачі про максимальний потік.
-\par Будемо вважати центр міста - джерелом $s$ а спальний район стоком $t$. Шляхи між перехрестями будемо вважати ребрами мережі, з обмеженнями на пропускну здатність $c(x,y)$ заданої в вигляді таблиці.
-\par Перехрестя будемо вважати вузлами транспортної мережі з обмеженнями на вузлах $k(x)$ заданими в векторній формі.
-\par Для вирішення завдання знайдемо спочатку максимальний потік вихідної мережі. Потім додамо нове ребро, яке буде відображати дорогу, яку збираються будувати. Задамо цьому ребру нескінченну пропускну здатність. Знайдемо новий максимальний потік. Різниця між цими двома величинами і буде шуканим числом машин, які користуватимуться новою дорогою.
+\par Будемо вважати Одесу джерелом $s$ а Барселону - стоком $t$. Авіа та залізничні рейси вважатимемо ребрами мережі, з обмеженнями на пропускну здатність $k(x,y)$ заданої в вигляді таблиці.
+\par Час переправи будемо вважати ціною ребра мережі (в хвидинах).
 \begin{figure}[h]
 \begin{center}
 \includegraphics[scale=0.6]{p3.jpg}
@@ -750,118 +749,44 @@ $$MinCostFlow.exe \quad main$$
 \end{figure}
 \\
 \begin{center}
-\begin{turn}{270}
+%\begin{turn}{270}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
-0&10000&10000&10000&0&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&100&70&80&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&40&60&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&200&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&120&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&200&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&220&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&150&150&100&70&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&120&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&150&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&150&150&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&100&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&120&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&0 \\
-\hline
+0&50&0&60&70&0     \\ \hline
+0&0&100&0&40&0     \\ \hline
+0&0&0&80&0&90      \\ \hline
+0&0&0&0&70&0       \\ \hline
+0&0&0&0&0&50       \\ \hline
+0&0&0&0&0&0        \\ \hline
 \end{tabular}
-\end{turn}
+%\end{turn}
 \end{center}
-обмеження пропускних здібностей на перехрестях задано наступним вектором:
+Час переправі заданий матрицею
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
-10000&100&150&250&120&140&160&400&70&110&200&20&120&120&120&10000 \\
-\hline
+0&100&0&200&250&0  \\ \hline
+0&0&130&0&160&0    \\ \hline
+0&0&0&140&0&0      \\ \hline
+0&0&0&0&175&0      \\ \hline
+0&0&0&0&0&60       \\ \hline
+0&0&0&0&0&0        \\ \hline
 \end{tabular}
 \end{center}
 \indent В результаті роботи програми було отримано наступне рішення:
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
-0&100&80&120&0&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&100&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&20&60&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&120&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&120&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&60&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&120&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&70&110&100&20&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&70&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&110&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&10&90&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&20&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&70 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&120 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&110 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&0 \\
-\hline
+0&50&0&0&50&0\\ \hline
+0&0&50&0&0&0 \\ \hline
+0&0&0&0&0&50 \\ \hline
+0&0&0&0&0&0  \\ \hline
+0&0&0&0&0&50 \\ \hline
+0&0&0&0&0&0  \\ \hline
 \end{tabular}
 \end{center}
-Максимальний потік 300 машин.\\
-{\bf Тепер введемо нове ребро }, яке буде відповідати новій дорозі, що йде в об'їзд перехрестя
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.6]{p3n.jpg}
-\caption{Транспортна мережа}
-\end{center}
-\end{figure}
-\\
-\begin{center}
-\begin{turn}{270}
-\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
-\hline
-0&10000&10000&10000&0&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&100&70&80&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&40&60&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&200&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&120&0&0&0&0&{\bf1000}&0&0&0 \\ \hline
-0&0&0&0&0&0&0&200&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&220&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&150&150&100&70&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&120&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&150&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&150&150&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&100&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&120&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&10000 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&0 \\
-\hline
-\end{tabular}
-\end{turn}
-\end{center}
-Потім подивимося на скільки збільшиться потік при додаванні нового ребра, що б встановити скільки смуг повинно бути у нової дороги.
-Результуюче рішення:
-\begin{center}
-\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
-\hline
-0&100&90&160&0&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&90&10&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&30&60&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&160&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&120&0&0&0 \\ \hline
-0&0&0&0&0&0&0&70&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&160&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&110&100&20&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&110&0&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&10&90&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&20&0 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&120 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&120 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&110 \\ \hline
-0&0&0&0&0&0&0&0&0&0&0&0&0&0&0&0 \\
-\hline
-\end{tabular}
-\end{center}
-Ми бачимо, що в результаті максимальний потік машин збільшиться на 50 одиниць. Значить достатньо буде побудувати дорогу з однією смугою в кожну напрямку.
+
+В результаті роботи програми компанія знае яким шляхом найкраще доставити туристів до пунктів відпочинку.
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \section{Висновки}
@@ -903,7 +828,155 @@ $$MinCostFlow.exe \quad main$$
 \label{sec:A}
 
 \begin{lstlisting}[style=csharpinlinestyle]
- private static FlowCost CalculateFlow(int[,] flows, int[,] costs, int s, int t, int neededFlow)
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MinCostFlow
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            dataReader data;
+            string source = "main";
+            try
+            {
+                if (args.Length > 0)
+                {
+                    data = getData(args[0]);
+                    source = args[0];
+                }
+                else
+                    data = getData(source);
+            }
+            catch (FileNotFoundException Ex)
+            {
+                Console.WriteLine($"File {Ex.FileName} was not found, please make sure file is present and has a propper format");
+                Console.ReadKey();
+                return;
+            }
+            int[,] flowsCopy = new int[data.flows.GetLength(0), data.flows.GetLength(0)];
+            Array.Copy(data.flows, 0, flowsCopy, 0, data.flows.Length);
+            FlowCost result = CalculateFlow(data.flows, data.costs, 0, data.flows.GetLength(0) - 1, data.neededFlow);
+            var usedFlow = getUsedFlow(flowsCopy, result.resultingFlows);
+            writeResult(result.totalCost, usedFlow, source);
+            Console.WriteLine($"Result is written to file {source}_result.csv");
+            Console.ReadKey();
+        }
+
+        private static void writeResult(int totalCost, int[,] usedFlow, string source = "main")
+        {
+            string fullAppName = System.Reflection.Assembly.GetExecutingAssembly().Location;
+            string fullAppPath = System.IO.Path.GetDirectoryName(fullAppName);
+            string root = System.IO.Path.GetDirectoryName(fullAppPath);
+            root = System.IO.Path.GetDirectoryName(root);
+            string DataPath = String.Concat(root, "\\Data", "\\" + source + "_result.csv");
+
+            writeData(DataPath, totalCost, usedFlow);
+        }
+
+        private static void writeData(string dataPath, int totalCost, int[,] usedFlow)
+        {
+            StreamWriter sw = new StreamWriter(dataPath);
+            sw.WriteLine(totalCost);
+            sw.WriteLine("");
+            for (int i = 0; i < usedFlow.GetLength(0); i++)
+            {
+                var line = "";
+                for (int j = 0; j < usedFlow.GetLength(0); j++)
+                {
+                    line += usedFlow[i, j] + ",";
+                }
+                line = line.Trim(',');
+                sw.WriteLine(line);
+            }
+            sw.Close();
+        }
+
+        private static dataReader getData(string source = "main")
+        {
+            string fullAppName = System.Reflection.Assembly.GetExecutingAssembly().Location;
+            string fullAppPath = System.IO.Path.GetDirectoryName(fullAppName);
+            string root = System.IO.Path.GetDirectoryName(fullAppPath);
+            root = System.IO.Path.GetDirectoryName(root);
+            string DataPath = String.Concat(root, "\\Data", "\\" + source + ".csv");
+
+            if (File.Exists(DataPath))
+                return readData(DataPath);
+            else
+                throw new FileNotFoundException();
+        }
+
+        private static dataReader readData(string filePath)
+        {
+            var result = new dataReader();
+            //int[,] flows;
+            //int[,] costs;
+            try
+            {
+                StreamReader sr = new StreamReader(filePath);
+
+                string line;
+
+                line = sr.ReadLine();
+                result.neededFlow = System.Convert.ToInt32(line.Trim(','));
+                line = sr.ReadLine();
+                var size = line.Split(',').Length;
+                result.flows = new int[size, size];
+                result.costs = new int[size, size];
+                var lineNum = 0;
+                while (line.Length > 2)
+                {
+                    string[] LimitersStr = line.Split(',');
+                    int len = LimitersStr.Length;
+                    for (int i = 0; i < size; i++)
+                    {
+                        result.flows[lineNum, i] = Int32.Parse(LimitersStr[i]);
+                    }
+                    lineNum++;
+                    line = sr.ReadLine();
+                }
+                lineNum = 0;
+                while (sr.Peek() > 0)
+                {
+                    line = sr.ReadLine();
+                    string[] LimitersStr = line.Split(',');
+                    //int len = LimitersStr.Length;
+                    for (int i = 0; i < size; i++)
+                    {
+                        result.costs[lineNum, i] = System.Convert.ToInt32(LimitersStr[i]);
+                    }
+                    lineNum++;
+                }
+                sr.Close();
+                //result.flows = flows;
+                //result.costs = costs;
+                return result;
+            }
+            catch (Exception ex)
+            {
+                return readData("main");
+            }
+        }
+
+        private static int[,] getUsedFlow(int[,] flows, int[,] resultingFlows)
+        {
+            var Size = flows.GetLength(0);
+            int[,] result = new int[Size, Size];
+            for (int i = 0; i < Size; i++)
+                for (int j = 0; j < Size; j++)
+                {
+                    result[i, j] = flows[i, j] - resultingFlows[i, j];
+                }
+            return result;
+        }
+
+        private static FlowCost CalculateFlow(int[,] flows, int[,] costs, int s, int t, int neededFlow)
         {
             var totalFlow = 0;
             var totalCost = 0;
@@ -920,17 +993,46 @@ $$MinCostFlow.exe \quad main$$
                     totalCost += maxFlow * path[t].totalCost;
                     path = bfs(flows, costs, s, t);
                     totalFlow += maxFlow;
-                    return new FlowCost { totalCost = totalCost, resultingFlows = flows };
+                    return new FlowCost { totalCost = totalCost, resultingFlows = flows, totalFlow = totalFlow };
                 }
                 flows = updateFlows(maxFlow, flows, path, s, t);
                 totalCost += maxFlow * path[t].totalCost;
                 path = bfs(flows, costs, s, t);
                 totalFlow += maxFlow;
             }
-            return new FlowCost { totalCost = totalCost, resultingFlows = flows };
+            return new FlowCost { totalCost = totalCost, resultingFlows = flows, totalFlow = totalFlow };
         }
 
-public static MilestoneHist[] bfs(int[,] rGraph, int[,] costGraph, int s, int t)
+        private static int[,] updateFlows(int maxFlow, int[,] flows, MilestoneHist[] path, int s, int t)
+        {
+            int to = t;
+            int from = path[to].pointNum;
+            while (from != -1)
+            {
+                flows[from, to] -= maxFlow;
+                if (flows[from, to] < 0)
+                    throw new Exception("result flow can't be less than 0, some error in logic");
+                to = from;
+                from = path[to].pointNum;
+            }
+            return flows;
+        }
+
+        private static int getMaxFlowForPath(int[,] flows, MilestoneHist[] path, int s, int t)
+        {
+            int to = t;
+            int from = path[to].pointNum;
+            var maxFlow = flows[from, to];
+            while (from != -1)
+            {
+                maxFlow = Math.Min(maxFlow, flows[from, to]);
+                to = from;
+                from = path[to].pointNum;
+            }
+            return maxFlow;
+        }
+
+        public static MilestoneHist[] bfs(int[,] rGraph, int[,] costGraph, int s, int t)
         {
             var debug = 0;
             int Size = rGraph.GetLength(0);
@@ -944,13 +1046,13 @@ public static MilestoneHist[] bfs(int[,] rGraph, int[,] costGraph, int s, int t)
             while (q.Count != 0)
             {
                 int u = (int)q.Dequeue();
-                debug++;
-                if (debug > 10000)
-                    throw new StackOverflowException();
+                //debug++;
+                //if (debug > 10000)
+                //    throw new StackOverflowException();
 
                 for (int v = 0; v < Size; v++)
                 {
-                    if (v != s && rGraph[u, v] > 0)
+                    if (v != s && rGraph[u, v] > 0 /*&& IsNotCycle(u,v,parent)*/)
                     {
                         if (parent[v] == null)
                         {
@@ -970,8 +1072,76 @@ public static MilestoneHist[] bfs(int[,] rGraph, int[,] costGraph, int s, int t)
                     }
                 }
             }
+            // If we reached sink in BFS starting from source, then return
+            // true, else false
             return parent;
         }
+
+        public static Milestone[,] ConvertToMilestones(int[,] costs)
+        {
+            int size = costs.GetLength(0);
+            Milestone[,] res = new Milestone[size, size];
+            for (int i = 0; i < size; i++)
+                for (int j = 0; j < size; j++)
+                {
+                    res[i, j] = new Milestone { InitialFlow = costs[i, j], RemainingFlow = costs[i, j] };
+                }
+            return res;
+        }
+    }
+
+    class Milestone
+    {
+        public int InitialFlow { get; set; }
+        public int RemainingFlow { get; set; }
+        public int Cost { get; set; }
+        public Milestone prevMilestone { get; set; }
+
+        public int getTotalCost()
+        {
+            var maxFlow = this.InitialFlow;
+            var totalCost = 0;
+            var prevMilestone = this.prevMilestone;
+            while (prevMilestone != null)
+            {
+                maxFlow = Math.Min(maxFlow, prevMilestone.InitialFlow);
+                prevMilestone = prevMilestone.prevMilestone;
+            }
+            prevMilestone = this.prevMilestone;
+            while (prevMilestone != null)
+            {
+                totalCost += prevMilestone.Cost * maxFlow;
+                prevMilestone = this.prevMilestone;
+            }
+            return totalCost;
+        }
+    }
+
+    class MilestoneHist
+    {
+        public int pointNum { get; set; }
+        public int totalCost { get; set; }
+
+        public static int GetCostByHistory(MilestoneHist[] history)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    class FlowCost
+    {
+        public int totalFlow { get; set; }
+        public int totalCost { get; set; }
+        public int[,] resultingFlows { get; set; }
+    }
+    class dataReader
+    {
+        public int neededFlow { get; set; }
+        public int[,] flows { get; set; }
+        public int[,] costs { get; set; }
+    }
+}
+
 \end{lstlisting}
 
 
